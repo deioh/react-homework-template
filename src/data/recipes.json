@@ -3,12 +3,14 @@
     "id": 1,
     "title": "Pancakes",
     "category": "Breakfast",
-    "description": "A classic breakfast dish made with whole grain, rolled oats, and whole milk. It's a quick and easy breakfast that's perfect for those who love to eat breakfast."
+    "description": "A classic breakfast dish made with whole grain, rolled oats, and whole milk. It's a quick and easy breakfast that's perfect for those who love to eat breakfast.",
+    "image": "https://lh3.googleusercontent.com/drive-viewer/AKGpihaNKakUKA7apgHwNaugTdWcwCDObSgbYYtPS8VXirihH71-vtYVAHOA1Nv4V1ThLARTg9ZTf5Qyuzab6yEeudok6hS2siOW4wg=s1600-rw-v1"
   },
   {
     "id": 2,
     "title": "French Toast",
     "category": "Breakfast",
-    "description": "A classic breakfast dish made with whole grain, rolled oats, and whole milk. It's a quick and easy breakfast that's perfect for those who love to eat breakfast."
+    "description": "A classic breakfast dish made with whole grain, rolled oats, and whole milk. It's a quick and easy breakfast that's perfect for those who love to eat breakfast.",
+    "image": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZaDYeb4O0qRwgawazq79H3yfYTFZYMDz5lcTfdEeP1aTZk0ea_LggqGptWNroiql87mLUlBtDBMOpbXM8PzuBzGHt5BxWupAU=s1600-rw-v1"
   }
 ]
