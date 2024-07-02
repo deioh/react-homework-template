@@ -1,7 +1,7 @@
 //import React from 'react'
 
 export const RecipeListItem = () => {
-  return <div>RecipeListItem</div>;
+  return <li>RecipeListItem</li>;
 };
 
 // export const RecipeListItem = ({ key, title }) => {
